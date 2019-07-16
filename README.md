@@ -1,5 +1,5 @@
-# Twitch Integration
-> **A Spectrum plugin that displays twitch chat on the car screen**
+# Disco Car
+> **Another joke plugin. (Seizure warning)**
 ![Repository logo](repository_thumbnail.png)
 
 # Download the mod
